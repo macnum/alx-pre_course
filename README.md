@@ -1,3 +1,3 @@
 # My first commit
-> Aboout
+> About
 ---
